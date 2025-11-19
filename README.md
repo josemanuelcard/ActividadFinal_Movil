@@ -359,7 +359,6 @@ Los errores se muestran en la UI con mensajes claros y opción de cerrar.
 
 ## 📄 Entregables
 
-- ✅ Repositorio Git con commits descriptivos
 - ✅ APK de debug para pruebas (`app-debug.apk`)
 - ✅ README completo con documentación
 - ✅ Arquitectura limpia implementada
